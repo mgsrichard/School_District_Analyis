@@ -66,3 +66,12 @@ In the school summary, only the THS scores are affected. The other schools' data
     
 ## Summary - Summarize 4 changes in the updated school district analysis after reading and math scores for ninth graders at THS have been replaced with nans
 
+In summary, the removal of math and reading scores for the ninth graders at Thomas High School resulted in the following 4 changes:
+    -  On a district level, the average math score, the passing percentage in math, the passing percentage in reading, and the overall passing percentage all declined slightly
+    -  For THS, the average reading score, average math score, the passing percentage in math, the passing percentage in reading, and the overall passing percentage all declined slightly
+    -  THS's rank remained second among the schools in the district, but because the overall passing percent went down, their score is now very close to Griffin High School.
+    -  The average grades by school now reflect no scores for ninth graders at THS, showing nan instead of the original scores
+    
+ A final thought - we didn't replace any data for THS, we only omitted it. Perhaps the real question, which we don't have the data to answer, is what would the scores have been if they were not altered or tampered with, and would that data have a greater impact on THS's performance and the school district as a whole?
+    
+
