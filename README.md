@@ -7,13 +7,31 @@ Previously, we completed an analysis for a city school system of their students'
 ## Results
 
 - How is the district summary affected?
+![Before district summary](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20District%20Summary.png)
+![After district summary](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20District%20Analysis.png)
+
 - How is the school summary affected?
+![Before school summary](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20School%20Summary.png)
+![After school summary](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20School%20Summary%20-%20THS%20pcts%20wrong.png)
+
 - How did replacing the ninth graders' math and reading scores affect THS's performance relative to other schools?
+![Before top 5](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20Top%205%20schools.png)
+![After top 5](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20top%205%20schools.png)
+
 - Howo does replacing the ninth-grade scores affect the following?
     - Math and Reading Scores by Grade
+    ![Before Math Scores](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20Math%20scores%20by%20grade.png)
+    ![Before reading scores bby grade](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20reading%20scores%20by%20grade.png)
+    ![After Math Scores by Grade](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20Math%20Scores%20by%20school.png)
+    ![After Reading scores by grade](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20Reading%20scores%20by%20school.png)
     - Scores by School Spending
+    ![Before scores by school spending](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20Summary%20by%20spending.png)
+    ![After scores by spending](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20scores%20by%20spending.png)
     - Scores by School Size
+    ![Before scores by size](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20summary%20by%20size.png)
+    ![After scores by size](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20Scores%20by%20size.png)
     - Scores by School Type
-
+    ![Before scores by type](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20Summary%20by%20Type.png)
+    ![After scores by type](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20Scores%20by%20type.png)
 ## Summary - Summarize 4 changes in the updated school district analysis after reading and math scores for ninth graders at THS have been replaced with nans
 
