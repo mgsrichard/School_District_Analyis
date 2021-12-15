@@ -37,9 +37,9 @@ In the school summary, only the THS scores are affected. The other schools' data
 
 
 ### Before
-![Before school summary](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20School%20Summary.png)
+![Before school summary](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20School%20Summary%20THS%20only.png)
 ### After
-![After school summary](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20School%20Summary%20THS%20pcts%20right.png)
+![After school summary](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20School%20Summary%20THS%20only.png)
 
 - How did replacing the ninth graders' math and reading scores affect THS's performance relative to other schools?
 
@@ -55,12 +55,12 @@ In the school summary, only the THS scores are affected. The other schools' data
     
     The math and reading scores by grade are unaffected, except for the grades for the THS ninth graders, which are now replaced by NaNs (which means not a number).
     ### Before
-    ![Before Math Scores](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20Math%20scores%20by%20grade.png)
-    ![Before reading scores bby grade](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20reading%20scores%20by%20grade.png)
+    ![Before Math and reading Scores by grade](https://github.com/mgsrichard/School_District_Analyis/blob/main/Before%20reading%20and%20math%20by%20grade.png)
     ### After
-    ![After Math Scores by Grade](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20Math%20Scores%20by%20school.png)
-    ![After Reading scores by grade](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20Reading%20scores%20by%20school.png)
-    - Scores by School Spending, School Size, and School Type
+    ![After Math and reading Scores by Grade](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20math%20and%20reading%20scores%20by%20grade.png)
+  
+  
+- Scores by School Spending, School Size, and School Type
     
     The scores by school spending, school size, and school type are also unaffected by the removal of the these scores.  A total of 461 students' scores were removed, which represents only 1.1% of the entire school district population. For these calculations, however, the averages were computed with each school having an equal weight, which tended to lessen the weight of this large school in the outcome.  If weighted averages by school student counts were used instead, a very small change might be seen, but likely not a significant one.  
     
