@@ -50,7 +50,7 @@ Removing the ninth graders' math and reading scores did not change THS's rank as
 #### After
 ![After top 5](https://github.com/mgsrichard/School_District_Analyis/blob/main/After%20top%205%20schools.png)
 
-### How does replacing the ninth-grade scores affect the following?
+### How does replacing the ninth-grade scores affect the other outcomes?
 - Math and Reading Scores by Grade
     
     The math and reading scores by grade are unaffected, except for the grades for the THS ninth graders, which are now replaced by nans (which means not a number).
@@ -68,7 +68,7 @@ In summary, the removal of math and reading scores for the ninth graders at Thom
 -  On a district level, the average math score, the passing percentage in math, the passing percentage in reading, and the overall passing percentage all declined slightly
 -  For THS, the average reading score, average math score, the passing percentage in math, the passing percentage in reading, and the overall passing percentage all declined slightly
 -  The student count is now 38,709 instead of 39,170, reflecting the removal of the 461 ninth graders from THS
--  THS's rank remained second among the schools in the district, but because the overall passing percent went down, their score is now very close to Griffin High School.
+-  THS's rank remained second among the schools in the district, but because their overall passing percent went down, their score is now very close to Griffin High School.
 -  The average grades by school now reflect no scores for ninth graders at THS, showing nan (not a number) instead of the original scores
     
  A final thought: we didn't replace any data for THS, we only omitted it. Perhaps the real question, which we don't have the data to answer, is what would the scores have been if they were not altered or tampered with, and would that data have a greater impact on THS's performance and the school district as a whole?
